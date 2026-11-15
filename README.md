@@ -1,9 +1,5 @@
 🛡️ SOC Analyst L1 — Learning & Career Journey
 
-"Learning" (https://img.shields.io/badge/Status-Learning%20in%20Progress-orange)
-"Cybersecurity" (https://img.shields.io/badge/Focus-SOC%20Analyst%20L1-blue)
-"Hands-on" (https://img.shields.io/badge/Approach-Hands--On-green)
-
 Welcome to my SOC Analyst L1 learning journey.
 
 This repository documents my continuous learning, hands-on cybersecurity practice, technical notes, security tools, and practical labs as I work toward becoming a SOC Analyst Level 1.
