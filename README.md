@@ -1,4 +1,4 @@
-🛡️ SOC Analyst L1 — Learning & Career Journey
+🛡️ SOC Analyst L1 - Learning & Career Journey
 
 Welcome to my SOC Analyst L1 learning journey.
 
