@@ -101,4 +101,4 @@ Understand Windows behavior, recognize suspicious activity, investigate endpoint
 
 ---
 
-**Status:** 📚 Learning & Practicing | 🔐 SOC Analyst L1 Preparation
+**Status:** 📚 Learning & Practicing | 🔐 Cyber Security Preparation
