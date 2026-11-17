@@ -95,6 +95,32 @@ Understanding where applications run helps identify suspicious behavior, privile
 
 ---
 
+---
+
+## 🏗️ Windows Architecture: Key Components to Recognize
+
+*Names become useful when you understand why each component exists.*
+
+| Component | Purpose |
+|---|---|
+| **HAL.dll** | Hardware Abstraction Layer — provides an interface between Windows and hardware. |
+| **NTOSKRNL.exe** | Core Windows Kernel — manages essential operating system functions. |
+| **Drivers** | Enable communication between Windows and hardware devices. |
+| **Win32 Subsystem** | Provides APIs and services for application execution and GUI interaction. |
+
+### 📁 System32 Directory
+
+- **Location:** `C:\Windows\System32`
+- Contains essential Windows system files, executables, DLLs, and system utilities.
+- **Security relevance:** Malware may abuse legitimate system utilities, masquerade as system files, or attempt to modify critical files.
+- **SOC focus:** Investigate suspicious executables, unexpected file modifications, unusual DLL loading, and unsigned binaries.
+
+### 🔍 SOC Analyst Investigation Note
+
+Understanding Windows architecture during an investigation requires focusing primarily on the **evidence layer**, including processes, loaded modules, drivers, services, and event logs.
+
+---
+
 ## 🎯 Learning Objective
 
 Understand Windows behavior, recognize suspicious activity, investigate endpoint evidence, and support incident response as a SOC Analyst L1.
