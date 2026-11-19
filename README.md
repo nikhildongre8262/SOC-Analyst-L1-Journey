@@ -19,10 +19,10 @@ My goal is to strengthen my cybersecurity fundamentals, develop practical SOC in
 
 📚 Learning Roadmap
 
-- [ ] Computer Networking Fundamentals
-- [ ] Linux Fundamentals
-- [ ] Windows & Windows Event Logs
-- [ ] Cybersecurity Fundamentals
+- [✅] Computer Networking Fundamentals
+- [✅] Linux Fundamentals
+- [✅] Windows & Windows Event Logs
+- [✅] Cybersecurity Fundamentals
 - [ ] SOC Operations & Alert Triage
 - [ ] SIEM Fundamentals
 - [ ] Log Analysis & Investigation
