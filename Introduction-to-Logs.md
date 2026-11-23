@@ -1,4 +1,4 @@
-# Day 12 - Introduction to Logs
+# Introduction to Logs
 
 ## 1. What Are Logs?
 
