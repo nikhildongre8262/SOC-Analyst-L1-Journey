@@ -23,7 +23,7 @@ My goal is to strengthen my cybersecurity fundamentals, develop practical SOC in
 - [✅] Linux Fundamentals
 - [✅] Windows & Windows Event Logs
 - [✅] Cybersecurity Fundamentals
-- [ ] SOC Operations & Alert Triage
+- [✅] SOC Operations & Alert Triage
 - [ ] SIEM Fundamentals
 - [ ] Log Analysis & Investigation
 - [ ] Incident Response Basics
